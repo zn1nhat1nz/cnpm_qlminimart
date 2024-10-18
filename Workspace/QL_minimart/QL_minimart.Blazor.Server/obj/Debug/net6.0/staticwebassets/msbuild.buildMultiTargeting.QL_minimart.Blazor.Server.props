@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QL_minimart.Blazor.Server.props" />
+</Project>

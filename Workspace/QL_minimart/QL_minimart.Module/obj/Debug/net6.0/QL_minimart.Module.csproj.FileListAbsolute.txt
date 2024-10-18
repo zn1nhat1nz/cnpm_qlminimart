@@ -1,0 +1,12 @@
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\bin\Debug\net6.0\QL_minimart.Module.deps.json
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\bin\Debug\net6.0\QL_minimart.Module.dll
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\bin\Debug\net6.0\QL_minimart.Module.pdb
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\obj\Debug\net6.0\QL_minimart.Module.csproj.AssemblyReference.cache
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\obj\Debug\net6.0\QL_minimart.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\obj\Debug\net6.0\QL_minimart.Module.AssemblyInfoInputs.cache
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\obj\Debug\net6.0\QL_minimart.Module.AssemblyInfo.cs
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\obj\Debug\net6.0\QL_minimart.Module.csproj.CoreCompileInputs.cache
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\obj\Debug\net6.0\QL_minimart.Module.dll
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\obj\Debug\net6.0\refint\QL_minimart.Module.dll
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\obj\Debug\net6.0\QL_minimart.Module.pdb
+D:\IT\CNPM\QL_minimart\QL_minimart.Module\obj\Debug\net6.0\ref\QL_minimart.Module.dll
