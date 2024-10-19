@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PC\\source\\repos\\Minimart_project.Win\\Minimart_project.Win.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\Minimart_project.Module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\Minimart_project.Module.csproj",
+        "projectName": "Minimart_project.Module",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\Minimart_project.Module.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "DevExpress.ExpressApp": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Chart": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.CloneObject.Xpo": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.CodeAnalysis": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.ConditionalAppearance": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Dashboards": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Objects": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Office": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.ReportsV2": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Security.Xpo": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Validation": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.ViewVariantsModule": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Xpo": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.Persistent.Base": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.Persistent.BaseImpl.Xpo": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PC\\source\\repos\\Minimart_project.Win\\Minimart_project.Win.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Minimart_project.Win\\Minimart_project.Win.csproj",
+        "projectName": "Minimart_project.Win",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\Minimart_project.Win\\Minimart_project.Win.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\Minimart_project.Win\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\Minimart_project.Module.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\Minimart_project.Module.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "DevExpress.ExpressApp": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Chart.Win": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.CodeAnalysis": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Dashboards.Win": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.FileAttachment.Win": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Office.Win": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.ReportsV2.Win": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Security.Xpo": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Validation.Win": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Win": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.ExpressApp.Xpo": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.Persistent.Base": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.Persistent.BaseImpl.Xpo": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.RichEdit.Export": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
+            "DevExpress.Win.Design": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

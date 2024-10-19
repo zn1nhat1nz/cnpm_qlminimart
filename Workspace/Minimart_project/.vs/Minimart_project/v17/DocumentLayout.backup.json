@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Minimart_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C390025-D06D-4FF7-ACD0-8E2763E6C3B0}|..\\Minimart_project.Blazor.Server\\Minimart_project.Blazor.Server.csproj|c:\\users\\pc\\source\\repos\\minimart_project.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C390025-D06D-4FF7-ACD0-8E2763E6C3B0}|..\\Minimart_project.Blazor.Server\\Minimart_project.Blazor.Server.csproj|c:\\users\\pc\\source\\repos\\minimart_project.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0155A755-BE6D-4D0F-9856-2F9C181FC807}|..\\Minimart_project.Module\\Minimart_project.Module.csproj|c:\\users\\pc\\source\\repos\\minimart_project.module\\businessobjects\\qlmnmcode\\order.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0155A755-BE6D-4D0F-9856-2F9C181FC807}|..\\Minimart_project.Module\\Minimart_project.Module.csproj|c:\\users\\pc\\source\\repos\\minimart_project.module\\businessobjects\\qlmnmcode\\order_detail.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0155A755-BE6D-4D0F-9856-2F9C181FC807}|..\\Minimart_project.Module\\Minimart_project.Module.csproj|c:\\users\\pc\\source\\repos\\minimart_project.module\\businessobjects\\qlmnmcode\\category.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0155A755-BE6D-4D0F-9856-2F9C181FC807}|..\\Minimart_project.Module\\Minimart_project.Module.csproj|c:\\users\\pc\\source\\repos\\minimart_project.module\\businessobjects\\qlmnmcode\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0155A755-BE6D-4D0F-9856-2F9C181FC807}|..\\Minimart_project.Module\\Minimart_project.Module.csproj|c:\\users\\pc\\source\\repos\\minimart_project.module\\businessobjects\\qlmnmcode\\stock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0155A755-BE6D-4D0F-9856-2F9C181FC807}|..\\Minimart_project.Module\\Minimart_project.Module.csproj|c:\\users\\pc\\source\\repos\\minimart_project.module\\businessobjects\\qlmnmcode\\role.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0155A755-BE6D-4D0F-9856-2F9C181FC807}|..\\Minimart_project.Module\\Minimart_project.Module.csproj|c:\\users\\pc\\source\\repos\\minimart_project.module\\businessobjects\\qlmnmcode\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0155A755-BE6D-4D0F-9856-2F9C181FC807}|..\\Minimart_project.Module\\Minimart_project.Module.csproj|c:\\users\\pc\\source\\repos\\minimart_project.module\\businessobjects\\qlmnmcode\\warehouse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0155A755-BE6D-4D0F-9856-2F9C181FC807}|..\\Minimart_project.Module\\Minimart_project.Module.csproj|c:\\users\\pc\\source\\repos\\minimart_project.module\\businessobjects\\qlmnmcode\\user.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0155A755-BE6D-4D0F-9856-2F9C181FC807}|..\\Minimart_project.Module\\Minimart_project.Module.csproj|c:\\users\\pc\\source\\repos\\minimart_project.module\\businessobjects\\qlmnm.xpo||{1923C09A-77B4-41C5-9C55-B8BC33E1A6D3}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PRODUCT.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\PRODUCT.cs",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\PRODUCT.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\PRODUCT.cs",
+              "RelativeToolTip": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\PRODUCT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:10:46.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CATEGORY.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\CATEGORY.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\CATEGORY.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\CATEGORY.Designer.cs",
+              "RelativeToolTip": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\CATEGORY.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:01:19.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "STOCK.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\STOCK.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\STOCK.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\STOCK.Designer.cs",
+              "RelativeToolTip": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\STOCK.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:02:22.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Blazor.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Blazor.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Blazor.Server\\appsettings.json",
+              "RelativeToolTip": "..\\Minimart_project.Blazor.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T10:44:43.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "USER.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\USER.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\USER.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\USER.Designer.cs",
+              "RelativeToolTip": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\USER.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:02:25.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlazorApplication.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Blazor.Server\\BlazorApplication.cs",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Blazor.Server\\BlazorApplication.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Blazor.Server\\BlazorApplication.cs",
+              "RelativeToolTip": "..\\Minimart_project.Blazor.Server\\BlazorApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:44:42.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ORDER_DETAIL.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ORDER_DETAIL.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ORDER_DETAIL.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ORDER_DETAIL.Designer.cs",
+              "RelativeToolTip": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ORDER_DETAIL.Designer.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:02:17.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ORDER.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ORDER.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ORDER.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ORDER.Designer.cs",
+              "RelativeToolTip": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ORDER.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:02:12.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WAREHOUSE.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\WAREHOUSE.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\WAREHOUSE.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\WAREHOUSE.Designer.cs",
+              "RelativeToolTip": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\WAREHOUSE.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:02:27.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ROLE.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ROLE.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ROLE.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ROLE.Designer.cs",
+              "RelativeToolTip": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\ROLE.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:02:37.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "STOCK.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\STOCK.cs",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\STOCK.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\STOCK.cs",
+              "RelativeToolTip": "..\\Minimart_project.Module\\BusinessObjects\\QLmnmCode\\STOCK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:02:39.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QLmnm.xpo",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnm.xpo",
+              "RelativeDocumentMoniker": "..\\Minimart_project.Module\\BusinessObjects\\QLmnm.xpo",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Minimart_project.Module\\BusinessObjects\\QLmnm.xpo",
+              "RelativeToolTip": "..\\Minimart_project.Module\\BusinessObjects\\QLmnm.xpo",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQFSURBVDhPfVRLbxtVFD4z9tiO4\u002BBH3nGMUidp05CWFBoiq1BoF00hjQQo2aQ8BBVIiAVixy9ASCwQSCxZoG6QWLAABKoEikJllShtUVLyaIidR\u002BPJw0ltx8545r44d5ypgkjzyZ9858yc7373nDOjwAE82XelIfHWpxfr68NfCkUJgxBuwQEY3lMEAMcLw7Ag/df47ze/vnYZw9ROdCAwYX8JHS9ejXZfGB1qa6z58PzpSNCrqS5FUQB1KsDFfKYM06kdsCy5Bah2/CAwwQ52nB\u002BNdp17dfjUUyff6D9ReyIa8WpNIY/SFPRAM7IuoMGuwWBl04KNHAGLUHkyh/\u002BBFFTifa\u002B8HO95ZqS5OdIXCla7C5aiPCwDPCwLyCGzJQ4TCyWYe2BANm8BIbbD/4lJSEG1uqbmaqSh9qwrENDSBYBUTlJAGrmK1\u002BtFAUvrZVkiqPGo4HXbWo8VVBgXfi5Ak/sSrBWRjUBiDKqwyp1hFS71VMPg6QAMnglBojMocw8VdCHd7edGrjXE2qJVfq8tIjuKP5s\u002BTYEadwlSK9chV/gBdou/gFBuh1o7yUsn\u002B8NniwWykc9auhSTsB0SyoGgJekMl/suFVxLYoyZkN1KQkuIwpmOZnj\u002B2a7wyPDQhWPHG17zVbvbKlIV2ILUEUMhSSlIsV4EKY/OOINCbgNa6pqhp6MbutqPwfF4m8qZK8qoCFSkKth3yNAhJmMRbWH8l5TNJFgDGad4v2iuwZYxCXppDNb3kmCSEnBZowOoOMRzMbSCOfhARfSR431R\u002BYzJ8mDyPFjcxBiSUex8RciB/aagQ2VhIQOpxQ2U5/ZDsjGyj7GIlyfinPq02r27dx/4p\u002B5ZHsYJlkGw3TyZx7dxW2o4kIJUv/PjdX02OUYJQwnh7GprLgU0sR3z\u002B2oba1//Z37hxs62nsKwUFSXO95x6iLQkgaAw7oPOUvy2HJ8JOVawp6xYJ0n\u002BkTEE/N4/bH\u002BFwY\u002Bn5ue/GxxZvE7o0QL9bHqp/sSl75dTs18r6\u002BlfyKmyG5nzLlDh9NBYrDpvf6Blo80TeuWtk2LzE7c0L9Kz\u002BbvDLwd/ULzaL34/fAzSjP6UunnX7/JfOA4OgzyyK2xxs72d4c\u002BgTevfAytDfE46sbwXkh1ab3Dl0d974y8D8/1JuqxmV0YV48UxJHwcGF6hbYFBWUKymzHyzn3CC40SqlfaHnVcKWgxDN4LapkzlGCQCyWX9P17Nifv8H4rXFYXl3fNvZonlFezu0Ya8mJ22Tsj1swf3\u002B5SAjflDmyEY\u002BFP\u002BiOGFa5anp62Zyfymb0ldLk5qoxXsyTFdULoYWZdfP\u002B9M7W5mr5770cu7mRLiePbArC6b6zMY77IzrTITXkhOErAOxf4S0TDThQxZMAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-18T11:35:41.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

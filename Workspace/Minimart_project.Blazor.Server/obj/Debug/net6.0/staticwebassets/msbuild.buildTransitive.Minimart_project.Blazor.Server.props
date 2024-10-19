@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Minimart_project.Blazor.Server.props" />
+</Project>
